@@ -81,5 +81,13 @@ For detailed information about the implementation and usage, refer to the IEEE-f
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 👏 Acknowledgements
+
+This project was developed as part of the academic curriculum at **Sardar Vallabhbhai National Institute of Technology, Surat**. I would like to express my sincere gratitude to:
+
+- **Department of Electronics Engineering, SVNIT** for providing the resources and infrastructure necessary for this project
+- The faculty members for their valuable guidance and support throughout the development process
+- Open-source communities behind NumPy, Matplotlib, and scikit-image for providing excellent documentation and tools
+- Fellow students and researchers who contributed to testing and providing feedback
+
+> This work serves as a practical implementation of Digital image processing concepts and demonstrates the real-world applications of the Hough Transform algorithm.
