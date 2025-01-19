@@ -18,20 +18,22 @@ The Image Feature Detection System leverages the Hough Transform algorithm to de
 
 ## 📊 Sample Outputs
 ### Line detection
-https://i.ibb.co/jHZksCZ/Screenshot-2024-11-19-205542.png
+![Line Detection](https://i.ibb.co/jHZksCZ/Screenshot-2024-11-19-205542.png)
 - Input: 3 Lines intersecting
 - Output: Highlighted 3 lines
 
 ### Circle detection
-https://ibb.co/8stdL94
-https://ibb.co/bRwpH6c
-https://ibb.co/ZRr6vWW
+![Circle Detection](https://i.ibb.co/wgjwF4r/Screenshot-2024-11-19-210205.png)
+-
+![Circle Detection](https://i.ibb.co/84vFzm1/Screenshot-2024-11-19-205908.png)
+-
+![Circle Detection](https://i.ibb.co/tw6Mn88/Screenshot-2024-11-19-210234.png)
 
 - Input: Some coins of different sizes
 - Output: Highlighted coins of all sizes
 
 ### Ellipse detection
-https://ibb.co/qk1KS2c
+![Line Detection](https://i.ibb.co/Hng6S9b/Screenshot-2024-11-19-211605.png)
 - Input: A tea cup making ellipse shape
 - Output: Ellipse detection using edge detection vs Hough transform
 
