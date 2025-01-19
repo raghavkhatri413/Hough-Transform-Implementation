@@ -16,6 +16,12 @@ The Image Feature Detection System leverages the Hough Transform algorithm to de
 - **Scikit-image**: Advanced image processing and edge detection
 - **Matplotlib**: Feature visualization and result presentation
 
+## 🔗 Live Demo & Links
+
+- **GitHub Repository**: [Source code](https://github.com/raghavkhatri413/Hough-Transform-Implementation)
+
+- **Report(in IEEE format)**: [Report](https://drive.google.com/file/u/1/d/1oppZkmVjk4E4G7Ap3SMAyJCj8u7ncmlC/view)
+
 ## 📊 Sample Outputs
 ### Line detection
 ![Line Detection](https://i.ibb.co/jHZksCZ/Screenshot-2024-11-19-205542.png)
