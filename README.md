@@ -18,7 +18,7 @@ The Image Feature Detection System leverages the Hough Transform algorithm to de
 
 ## 📊 Sample Outputs
 ### Line detection
-https://ibb.co/JCFjgYF
+[https://ibb.co/JCFjgYF](https://i.ibb.co/jHZksCZ/Screenshot-2024-11-19-205542.png)
 - Input: 3 Lines intersecting
 - Output: Highlighted 3 lines
 
